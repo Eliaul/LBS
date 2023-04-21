@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LBS</string>
+    <string name="accelerometer_name">加速度计</string>
+    <string name="gyroscope_name">陀螺仪</string>
+    <string name="magnetometer_name">磁力计</string>
+    <string name="location_name">纬经高</string>
+    <string name="accelerometer_info">data分别表示x、y、z轴的加速度（包括重力），单位是 m/s/s。</string>
+    <string name="gyroscope_info">data分别表示绕x、y、z轴的角速度，单位是 rad/s。</string>
+    <string name="magnetometer_info">data分别表示沿x、y、z轴的地磁场强度，单位是微特斯拉。</string>
+    <string name="location_info">data分别表示目前的纬度、经度、大地高，经纬度的单位是deg，大地高是基于WGS84参考椭球的高程，单位是m。</string>
+</resources>
